@@ -39,3 +39,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Photo AI
 >>>>>>> 61d0cb8 (Added animation effect on droping an image to photo ai - initial commit)
+# photo-ai
